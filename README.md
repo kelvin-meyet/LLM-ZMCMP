@@ -1,2 +1,2 @@
 # LLM-ZMCMP
-LLM - AI Engineering Projects
+Build AI Engineering Projects & LLM Applications
